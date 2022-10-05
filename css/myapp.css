@@ -25,11 +25,6 @@ a:hover {
     font-size: 1.5rem;
 }
 
-/* #navbar a:hover {
-    color: #D55C5A; 
-    text-decoration: underline;
-} */
-
 .title-bar-left {
     padding-top: 1.25rem;
     padding-bottom: 1.25rem;
@@ -43,10 +38,6 @@ a:hover {
 #offCanvas {
     background-color: #EBD4CC;
 }
-
-/* #offCanvas a:link, a:visited {
-    color: #894242; 
-} */
 
 #offCanvas a:hover {
     color: #D55C5A; 
@@ -101,15 +92,6 @@ a:hover {
     font-size: 1.25rem;
     color: #514945;
 }
-
-/* .content a:link, a:visited {
-    color: #894242;
-}
-
-.content a:hover {
-    color: #D55C5A;
-    text-decoration: underline;
-} */
 
 #project-grid .screenshot {
     width: 90%;
